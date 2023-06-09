@@ -1,0 +1,8 @@
+footer{
+    color: rgb(142, 141, 141);
+    text-align: center;
+    opacity: 0.5;
+    margin-top: 20px;
+}
+/* 
+//to access css in react we need to import it in the component file and then use it as a className in the component file */
