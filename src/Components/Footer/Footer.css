@@ -4,5 +4,3 @@ footer{
     opacity: 0.5;
     margin-top: 20px;
 }
-/* 
-//to access css in react we need to import it in the component file and then use it as a className in the component file */
