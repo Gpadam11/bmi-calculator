@@ -1,5 +1,4 @@
 import React, { Fragment } from "react";
-// import "./Navbar.css";
 import bmiImage from './bmi image.png';
 
 const Header = () => {
