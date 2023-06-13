@@ -78,13 +78,13 @@ const BMI = () => {
 
     <div class="flex items-center justify-between">
       <button
-        class="bg-blue-500 hover:bg-blue-700 text-white font-bold md:py-2 md:px-4 sm:px-2 sm:py-1 rounded focus:outline-none focus:shadow-outline"
+        class="bg-blue-500 hover:bg-blue-700 text-white font-bold md:py-2 md:px-4 sm:px-2 sm:py-1 mx-1 rounded focus:outline-none focus:shadow-outline"
         onClick={calculateBMI}
       >
         BMI Generate
       </button>
       <button
-        class="bg-blue-500 hover:bg-blue-700 text-white font-bold md:py-2 md:px-4 sm:px-2 sm:py-1 rounded focus:outline-none focus:shadow-outline"
+        class="bg-blue-500 hover:bg-blue-700 text-white font-bold md:py-2 md:px-4 sm:px-2 sm:py-1 mx-1 rounded focus:outline-none focus:shadow-outline"
         onClick={clearForm}
       >
         Clear BMI
